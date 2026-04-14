@@ -1,3 +1,4 @@
+<img width="2560" height="1360" alt="screenshot png" src="https://github.com/user-attachments/assets/05dcb6e8-5253-4fbd-9816-5d4e2be29dd0" />
 # 📚 AI Study Assistant (LLM Powered)
 
 🚀 I built my own AI Study Assistant using LLMs!
@@ -28,7 +29,8 @@ https://huggingface.co/spaces/Artishinde27/StudyAssistant
 
 ## 📸 Screenshot
 
-![App UI](<img width="2560" height="1360" alt="screenshot png" src="https://github.com/user-attachments/assets/870aef8e-bf6a-4dcd-add7-1b70a8e8eb19" />
+![App UI](<img width="2560" height="1360" alt="screenshot png" src="https://github.com/user-attachments/assets/17d93184-d8d4-4887-b03a-02eaeab1e28b" />
+
 )
 
 ---
