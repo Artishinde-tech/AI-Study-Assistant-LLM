@@ -28,7 +28,8 @@ https://huggingface.co/spaces/Artishinde27/StudyAssistant
 
 ## 📸 Screenshot
 
-![App UI](screenshot.png)
+![App UI](<img width="2560" height="1360" alt="StudyAssistant - a Hugging Face Space by Artishinde27 - Google Chrome 14-04-2026 10_09_14" src="https://github.com/user-attachments/assets/12c49211-4c60-4480-90a5-4f32e0035cc6" />
+)
 
 ---
 
