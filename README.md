@@ -1,4 +1,4 @@
-<img width="2560" height="1360" alt="screenshot png" src="https://github.com/user-attachments/assets/05dcb6e8-5253-4fbd-9816-5d4e2be29dd0" />
+
 # 📚 AI Study Assistant (LLM Powered)
 
 🚀 I built my own AI Study Assistant using LLMs!
