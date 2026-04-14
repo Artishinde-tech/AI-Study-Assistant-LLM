@@ -29,7 +29,8 @@ https://huggingface.co/spaces/Artishinde27/StudyAssistant
 
 ## 📸 Screenshot
 
-![App UI](<img width="2560" height="1360" alt="screenshot png" src="https://github.com/user-attachments/assets/17d93184-d8d4-4887-b03a-02eaeab1e28b" />
+![App UI](<img width="2560" height="1271" alt="screenshot png" src="https://github.com/user-attachments/assets/6f7a1c7b-c08d-4e4f-bacd-d1390767cb8b" />
+
 
 )
 
